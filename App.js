@@ -487,6 +487,7 @@ Ext.define('CustomApp', {
 					'Parent', 
 					'State', 
 					'Type', 
+					'Tags', 
 					'PlanEstimate',
 					'PreliminaryEstimateValue',
 					'LeafStoryPlanEstimateTotal', 
